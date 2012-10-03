@@ -1,0 +1,1 @@
+SUBSYSTEM=="input", ATTRS{idVendor}=="046d", ATTRS{idProduct}=="c517", RUN+="keymap $name ex100"
